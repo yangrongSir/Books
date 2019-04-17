@@ -1,3 +1,3 @@
 # Books
 
-- Pro Git.pdf
+- Pro Git.pdf （Git和GitHub的详细教程）
